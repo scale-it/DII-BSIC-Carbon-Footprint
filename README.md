@@ -1,1 +1,3 @@
 # DII-BSIC-Carbon-Footprint
+
+Treejer is creating a blockchain-based and gamified ecosystem in which individuals and businesses are given incentives to contribute to community-based tree plantation projects. By providing rewards and reputation to all contributing partners within the ecosystem, we aim to create an inclusive, transparent and sustainable tree plantation model that works on a global scale. Unlike many other projects, our blockchain-powered protocol enables a direct connection between the funders and rural communities who're paid to plant and maintain the demanded trees, even if they live in an unbanked area.
